@@ -1,0 +1,51 @@
+div{
+    background-color: #234363;
+    height: 150px;
+    width: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+
+
+body {
+    margin: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    padding-top: 25px;
+    padding-bottom: 8px;
+}
+
+.text{
+    border-radius: 5px;
+    height: 2em;
+    width: 20em;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.submit{
+    background-image: url(
+     https://raw.githubusercontent.com/velio84/Web-Fundamentals/master/Homework6/img/search.png);
+    background-color: floralwhite;
+    background-repeat: no-repeat;
+    border-radius:5px;
+    margin-left: -25px;
+    width: 25px;
+    height: 25px;
+}
+
+span{
+    float: right;
+}
+
+p, span {
+    margin-top: -12px;
+    margin-right: 20px;
+}
+
+

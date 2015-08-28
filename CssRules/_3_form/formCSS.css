@@ -1,0 +1,46 @@
+img{
+    width: 20px;
+    height: 10px;
+}
+
+p{
+    color: white;
+}
+
+.backgroundblue{
+    background-image: url("formBackground.jpg");
+    width: 400px;
+    height: 700px;
+    border-radius: 5px;
+}
+
+form{
+    padding: 5px;
+}
+
+div{
+    background-color: RGBA(255, 255, 255, 0.3);
+    border-radius: 5px ;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 5px;
+}
+
+input{
+    padding: 5px;
+}
+
+.submit{
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    background-color: black;
+    border: 1px solid black;
+    margin-left: 125px;
+}
+
+
+
+

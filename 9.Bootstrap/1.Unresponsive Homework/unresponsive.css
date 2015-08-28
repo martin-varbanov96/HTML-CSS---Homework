@@ -1,0 +1,173 @@
+body{
+    background-color: #6698ff;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+a{
+    font-style: normal;
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+    float: right;
+}
+
+span{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    vertical-align: 10px;
+}
+
+li{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+body div nav{
+    text-decoration:line-through ;
+    border: 1px solid black;
+    position;
+
+}
+
+body div section{
+   float: right;
+}
+
+body div section article{
+    background-color: white;
+    border: 1px solid black;
+    margin: 10px 0px;
+    padding: 10px;
+    width: 500px;
+    float: left;
+}
+
+body div section article p{
+    text-indent: 50px;
+}
+
+footer {
+    background-color: white;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 1200px;
+    text-align: center;
+
+}
+
+body div aside div ul li a {
+    display: inline-block;
+    float: left;
+}
+
+body aside {
+    display: inline-block;
+    width: 25%;
+    float: right;
+    clear: both;
+    margin-top: 1.5%;
+}
+
+body aside ul {
+    list-style-type: none;
+}
+
+body aside li {
+    padding: 4% 5% 5% 5%;
+}
+
+body aside li a {
+    color: black;
+    font-size: 0.8em;
+    text-decoration: none;
+}
+
+
+
+/* Media queries */
+
+@media only screen and (max-width:960px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    body section {
+        margin-left: 0;
+    }
+
+    body aside {
+        width: 20%;
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width:780px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    body section {
+        display: block;
+        width: 100%;
+        margin-top: 7%;
+    }
+
+    body aside {
+        display: inline-block;
+        width: 100%;
+        clear: both;
+        float: none;
+    }
+    body aside li {
+        display: inline-block;
+        width: 24%;
+        text-align: center;
+        vertical-align: top;
+    }
+}
+
+@media only screen and (max-width:640px) {
+    body header img {
+        display: block;
+        max-width: 100%;
+        margin: auto;
+    }
+
+    body header h1 {
+        display: block;
+        text-align: center;
+        margin-bottom: 3%;
+    }
+
+    body header nav ul {
+        float: none;
+        margin-left: 20%;
+        margin-top: -6%;
+    }
+
+    body header nav ul li {
+        display: block;
+        width: 80%;
+        text-align: center;
+    }
+
+    body aside li {
+        width: 100%;
+        display: block;
+        padding: 1% 1% 2% 1%;
+    }
+}

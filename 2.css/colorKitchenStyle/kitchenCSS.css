@@ -1,0 +1,171 @@
+nav{
+    text-align: left;
+    background-color: #f3f3f3;
+    border-radius: 25px ;
+    padding: 12px;
+}
+
+nav>header{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+#webColors{
+    background-color: red;
+    border-radius: 7px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+section>article>div::first-letter{
+    font-size: 50px;
+
+}
+section>article>div::first-line{
+    font-style: italic;
+}
+
+article{
+    background-color: #f3f3f3;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+#webSafeColors{
+
+    background: #f5ab52;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+#RGB{
+    background-color: yellow ;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+#RGBA{
+    color: white;
+    background-color: green ;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+#\#HSLHSV{
+
+    color: white;
+    background-color: blue ;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+#\#lorem{
+
+    color: white;
+    background-color: purple ;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+span:lang(la){
+    color: blue;
+    font-style: italic;
+}
+
+body{
+    background-image: url("colorful_dots_on_black.jpg")
+  
+}
+
+article{
+    margin: 15px;
+}
+
+body > header {
+    background: linear-gradient(to right, #ff0300 33.33%, #007b08 33.34%, #007b08 66.67%, #1500fc 66.68%);
+    color: #ffff40;
+    line-height: 1.5em;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -8px;
+    margin: 15px;
+}
+
+a:visited{
+    color: darkgrey;
+}
+
+a:link{
+    color: #000000;
+}
+
+ul>li:nth-child(1):hover{
+    background-color: red;
+    border-radius: 25px ;
+
+}
+
+ul>li:nth-child(2):hover{
+    background-color: orange;
+    border-radius: 25px ;
+}
+
+ul>li:nth-child(3):hover{
+    background-color: yellow;
+    border-radius: 25px ;
+}
+
+ul>li:nth-child(4):hover{
+    background-color: green;
+    border-radius: 25px ;
+}
+
+ul>li:nth-child(5):hover{
+    background-color: blue;
+    border-radius: 25px ;
+}
+
+ul>li:nth-child(6):hover{
+    background-color: purple;
+    border-radius: 25px ;
+}
+
+nav {
+    margin: 15px 15px 15px 5px;
+}
+
+aside {
+    position: fixed;
+    float: left;
+    width: 260px;
+    margin: 0px 0 0 15px;
+}
+
+
+section{
+
+    position: absolute;
+    right: 5px;
+    left:300px;
+
+}
+
+
+
+
+
+
+
+
+

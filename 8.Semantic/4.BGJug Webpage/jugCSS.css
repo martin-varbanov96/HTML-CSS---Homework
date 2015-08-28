@@ -1,0 +1,75 @@
+ul, li{
+    display: inline;
+    float: left;
+    padding: 6px;
+    list-style-type: none;
+    font-size: 15px;
+    color: gray;
+    margin-left: 10px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial,sans-serif;
+}
+
+h1{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+}
+
+#twitter{
+    background-color: gray;
+    color: darkgray;
+    font-size: 15px;
+    font-style: italic;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+article{
+    width: 700px;
+    padding: 5px;
+}
+.time{
+    font-size: 13px;
+    color: gray;
+}
+
+#search{
+    background: url("icon.jpg");
+    width: 20px;
+    height: 20px;
+    background-size: 15px;
+    background-repeat:no-repeat ;
+    margin: -4px;
+
+}
+
+.input{
+    margin: 0px;
+}
+
+#searchButton{
+    float: right;
+}
+
+#headerMain{
+    width: 1000px;
+}
+
+#footerMain{
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+

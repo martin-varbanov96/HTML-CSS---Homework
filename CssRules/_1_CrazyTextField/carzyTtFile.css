@@ -1,0 +1,47 @@
+th{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 10px 10px 10px #b2b2b2;
+    padding: 20px;
+
+}
+
+.mainTable{
+    /*border-top: yellow;*/
+    /*border-top-style: dotted;*/
+
+    /*border-right: #ff0010;*/
+    /*border-right: dashed;*/
+
+    /*border-bottom: 17px inset #d328ad;*/
+
+    border-top: 5px dotted yellow;
+    border-left: 5px dashed red;
+    border-bottom: 5px double blue;
+    border-right: 5px solid green;
+    box-shadow: 10px 10px 10px black;
+}
+
+table table{
+
+    border-radius: 50px;
+    border: 5px double green;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom:10px;
+    padding-top: 10px;
+    margin: 0px auto;
+
+}
+
+.textTable{
+    text-shadow: 10px 10px 10px #b2b2b2 ;
+    padding: 5px;
+}
+
+.buttonOne,.buttonTwo{
+    background-color:  orange;
+    border: 2px groove orange;
+}
+
+

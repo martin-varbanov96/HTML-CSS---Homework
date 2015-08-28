@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-family: Verdana,serif;
+    font-size: 20px;
+}
+
+article{
+    background-color: pink;
+    border-radius: 5px;
+    border: 2px solid lightpink;
+    width: 1100px;
+    height: 400px;
+}
+
+.profile{
+    display: inline;
+    float: left;
+}
+
+img{
+    margin-top: 1px;
+}
+
+.user{
+    margin-bottom: 1px;
+}
+
+#audioBlack{
+   background-color: black;
+   width: 250px;
+   height: 120px;
+   margin: 10px;
+   margin-top: 0px;
+   margin-bottom: 20px;
+
+}
+
+.audioReg{
+    margin: 10px;
+    width: 250px ;
+    height: 10px;
+
+}
+
+#audioIn{
+    padding: 0px;
+    margin-top: 20px;
+    width: 250px ;
+    height: 10px;
+    padding-top: 30px;
+}
+
+section{
+    margin: 10px;
+}
+meter{
+    margin-top: 0px;
+    width: 80%;
+    height: 20px;
+
+}
+
+#complete{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}

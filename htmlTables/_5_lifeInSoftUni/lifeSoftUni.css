@@ -1,0 +1,42 @@
+.google, .gmail, .a2048, .game,.wc{
+
+    text-align: left;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+}
+
+.github,.youtube,.food,.beer{
+    text-align: right;
+}
+
+ th,.social,.sleep{
+     text-align: center;
+ }
+ .google,.github,.fb{
+     vertical-align: top;
+ }
+
+ .youtube,.food,.game{
+     vertical-align: bottom;
+ }
+
+ .tableMain{
+     width: 415px;
+     height: 490px;
+ }
+
+ th{
+     font-size: 50px;
+     padding: 20px;
+ }
+
+ tr,td{
+     font-size: 25px;
+ }
+
+ table table{
+     margin: 15px;
+ }
+

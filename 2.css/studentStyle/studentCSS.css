@@ -1,0 +1,104 @@
+.bigCircle
+{
+    width:500px;
+    height:500px;
+    border-radius:500px;
+    /*line-height:500px;*/
+    background:yellow;
+    border: 1px solid #000000;
+}
+
+#noseCircle {
+    width: 70px;
+    height: 70px;
+    background-color: #ff0000;
+    border: 1px solid black;
+    border-radius: 70px;
+    position: absolute;
+    left: 230px;
+    top: 230px;
+}
+
+#eyeLeft{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 100px;
+    position: absolute;
+    left: 120px;
+    top: 110px;
+}
+
+#eyeRight{
+
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 100px;
+    position: absolute;
+    left: 310px;
+    top: 110px;
+}
+
+#irisLeft{
+    width: 30px;
+    height: 30px;
+    background-color: #000000;
+    border: 2px solid black;
+    border-radius: 30px ;
+    position: absolute;
+    left: 165px;
+    top: 155px;
+}
+
+#irisRight{
+
+    width: 30px;
+    height: 30px;
+    background-color: #000000;
+    border: 2px solid black;
+    border-radius: 30px ;
+    position: absolute;
+    left: 310px;
+    top: 110px;
+}
+
+#mouth{
+    width: 250px;
+    height: 90px;
+    background-color: #f3f3f3 ;
+    border: 2px solid black;
+    position: absolute;
+    border-radius: 50px;
+    top: 330px;
+    left: 135px;
+}
+
+#toothRight{
+    width:55px;
+    height:55px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+    left: 215px;
+    top: 330px;
+
+}
+#toothLeft{
+    width:55px;
+    height:55px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+    left: 274px;
+    top: 330px;
+
+}
+
+
+
+

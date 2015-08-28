@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    color: white;
+    font-size: 20px;
+
+}
+
+footer{
+    background-color: #234363;
+}
+
+.borderProb{
+    border: 2px solid orange;
+    margin: 10px;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
+*{
+
+    list-style-type: none;
+}
+
+.header{
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.fb-like-box{
+    background-color: white;
+}
+
+

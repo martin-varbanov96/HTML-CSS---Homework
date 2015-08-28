@@ -1,0 +1,10 @@
+div{
+    width: 900px;
+    height: 600px;
+    background-image: url('AlexHula.png'), url('NakovHula.png'), url('TediHula.png'), url('PetiaHula.png'),
+    url('VladoGHula.gif'), url('VladoKHula.png'), url('HawaiiBackground.gif')  ;
+    background-position: 70% bottom, 55% bottom, 30% bottom, 25% bottom,  5% bottom, 100% bottom, left bottom ;
+    background-repeat: no-repeat ;
+
+}
+

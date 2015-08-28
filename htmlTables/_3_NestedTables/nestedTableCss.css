@@ -1,0 +1,25 @@
+table{
+    border: 1px solid black;
+}
+
+ table table tr td{
+     font-size: 60px;
+     border: 1px solid black;
+}
+
+ table{
+     width: 215px;
+     height: 189px;
+     margin: 10px;
+     padding: 10px;
+ }
+
+ img{
+    width: 135px;
+     height: 135px;
+     border: 3px solid black;
+     border-spacing: 10px;
+ }
+
+
+

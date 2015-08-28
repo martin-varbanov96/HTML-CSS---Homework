@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+    width: 320px;
+    height: 190px;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+}
+
+th{
+    font-size: 25px;
+    text-align: left;
+}

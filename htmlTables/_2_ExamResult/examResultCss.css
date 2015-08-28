@@ -1,0 +1,10 @@
+table,th,td,tr{
+    border: 1px solid black;
+}
+
+thead{
+    font-size: 25px;
+}
+tfoot{
+    text-align: right;
+}

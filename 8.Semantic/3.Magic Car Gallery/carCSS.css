@@ -1,0 +1,30 @@
+ul{
+
+    list-style-type: none;
+    font-style: italic;
+    font-size: 25px;
+    color: white;
+    float: right;
+    margin: 10px;
+}
+
+h1{
+    color: yellow;
+    font-size: 3em;
+    text-align: center;
+}
+article{
+    background-color: black;
+    width: 600px;
+    height: 400px;
+    border-radius: 5px;
+}
+
+a:hover img{
+    border:10px solid green;
+    background-color: purple;
+}
+
+
+
+
